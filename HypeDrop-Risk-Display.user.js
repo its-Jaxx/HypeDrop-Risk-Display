@@ -5,12 +5,6 @@
 // @description  Adds a display next to the price tag to show exactly what the risk is in percentage form along with colors.
 // @author       jaxx
 // @match        https://www.hypedrop.com/*
-// @exclude      https://www.hypedrop.com/en/inbox
-// @exclude      https://www.hypedrop.com/en/race
-// @exclude      https://www.hypedrop.com/en/deals
-// @exclude      https://www.hypedrop.com/en/affiliates
-// @exclude      https://www.hypedrop.com/en/player/*/deliveries
-// @exclude      https://www.hypedrop.com/en/player/*/summary
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hypedrop.com
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/its-Jaxx/HypeDrop-Risk-Display/main/HypeDrop-Risk-Display.user.js
